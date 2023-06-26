@@ -7,7 +7,7 @@
 .homepage{
     height: 100vh;
     width: 100%;
-    background-image: url(./images/netflix-octobre-contenus-2022.jpg);
+    background-image: url(../images/netflix-octobre-contenus-2022.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -347,7 +347,7 @@
 }
 
 .img-section{
-    background-image: url(/images/pexels-ron-lach-9807277.jpg);
+    background-image: url(../images/pexels-ron-lach-9807277.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -631,7 +631,7 @@
 
 .img-2-section {
     margin-top: 150px;
-    background-image: url(/images/GettyImages-1176372559-1.jpg);
+    background-image: url(../images/GettyImages-1176372559-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -823,7 +823,7 @@
 }
 
 .img-3-section{
-    background-image: url(/images/c.webp);
+    background-image: url(../images/c.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
